@@ -8,7 +8,7 @@ import projectModel from './models/project.model.js';
 import { generateResult } from './services/ai.service.js';
 import cors from 'cors';
 
-const port = process.env.PORT || 3000;
+const port = process.env.PORT || 8080;
 
 
 
